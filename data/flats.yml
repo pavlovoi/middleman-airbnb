@@ -1,0 +1,42 @@
+pavlovoi:
+  name: "Pavlo's home"
+  description: "Studio in Amsterdam"
+  city_name: "Amsterdam"
+  city_slug: "amsterdam"
+  wifi: false
+  rating: 4
+clembonmr:
+  name: "Clement's home"
+  description: "Castle in Bali"
+  city_name: "Bali"
+  city_slug: "bali"
+  wifi: true
+  rating: 3
+ppreuss:
+  name: "Philipp's home"
+  description: "Somewhere in Berlin"
+  city_name: "Berlin"
+  city_slug: "berlin"
+  wifi: true
+  rating: 3
+arnauddlc:
+  name: "Arnaud's home"
+  description: "Studio in Sydney"
+  city_name: "Sydney"
+  city_slug: "sydney"
+  wifi: false
+  rating: 4
+soniamontero:
+  name: "Sonia's home"
+  description: "Castle in Bali"
+  city_name: "Nantes"
+  city_slug: "nantes"
+  wifi: true
+  rating: 3
+freddykwan91:
+  name: "Freddy's home"
+  description: "Somewhere in Berlin"
+  city_name: "Shanghai"
+  city_slug: "shanghai"
+  wifi: true
+  rating: 3
